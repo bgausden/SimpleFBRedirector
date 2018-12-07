@@ -1,0 +1,15 @@
+{
+    "name": "fb_redirect",
+    "version": "1.0.0",
+    "description": "QR Redirector",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Barry Gausden",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^5.9.0",
+        "eslint-config-google": "^0.11.0"
+    }
+}
